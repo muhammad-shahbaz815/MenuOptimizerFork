@@ -1,0 +1,2 @@
+[tool.vercel]
+entrypoint = "api.render_pdf:handler"
